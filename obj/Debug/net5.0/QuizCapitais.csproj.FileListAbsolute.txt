@@ -1,0 +1,16 @@
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.exe
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.deps.json
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.runtimeconfig.json
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.runtimeconfig.dev.json
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.dll
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\ref\QuizCapitais.dll
+C:\MyApps\QuizCapitais\bin\Debug\net5.0\QuizCapitais.pdb
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.csproj.AssemblyReference.cache
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.AssemblyInfoInputs.cache
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.AssemblyInfo.cs
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.csproj.CoreCompileInputs.cache
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.dll
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\ref\QuizCapitais.dll
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.pdb
+C:\MyApps\QuizCapitais\obj\Debug\net5.0\QuizCapitais.genruntimeconfig.cache
